@@ -1,0 +1,158 @@
+.part1{
+    margin:1em 0;
+    border-radius: 0;
+    }
+      .header{
+          margin:0 ;
+          padding:0.5em 0 0 0;
+          flex-flow:row nowrap;
+          height:4em;
+          justify-content: space-evenly;
+          border-bottom: 0;
+          border-top: 0;
+      } 
+      .header__left{
+          
+          padding:0;
+          
+          
+      } 
+        .header__left--linkedin{
+        padding:0;
+        margin:0 9px;
+    }
+    .header__left--search{
+    flex-wrap:nowrap;
+    width:0.5em;
+    }
+    .header__left--search a input{
+    display:none;
+    }
+    .header__left--search i:hover{
+     color:black;
+    }
+    
+    .header__mid div{
+        flex-grow:3;
+        flex-flow:row nowrap;
+        justify-content: space-evenly;
+    }
+    .header__mid div p{
+         display:none;
+        }
+    
+    .header__right{
+    overflow:hidden;
+    }
+    .recruite{
+        overflow-x: auto;
+        
+    }
+    /*.recruite{
+        overflow:hidden;
+        position:relative;
+    }
+    .recruite__in{
+        position:absolute;
+        overflow-y:scroll;
+        overflow-x:hidden;
+    }
+    .recruite__inn::-webkit-scrollbar{
+        
+        display:none;
+     
+    }*/
+    .ppdetail__1 h1{
+        font-size:30px;
+    }
+    #p1{
+        font-size:23px;
+    }
+    #p2{
+        font-size:1.2em;
+    }
+    .mark i{
+        font-size:5px;
+    }
+    .open button{
+        font-size:20px;
+    }
+    .part2{
+        margin:1em 0;
+        border-radius: 
+     }
+     .strength__top{
+        font-size:1.5em;
+     }
+    .part3{
+        margin:0;
+        border-radius:0;
+    }
+    .part3 div p{
+        font-size:27px;
+    }
+    .view{
+        width:97%;
+    margin-left:10px;
+    margin-bottom:1em;
+    
+    
+    }
+    .view div{
+        padding:8px;
+        
+    }
+    .item{
+        margin-left:10px;
+    margin-right:10px;
+    border-radius: 1em`;
+    }
+    .item i{
+        font-size:0.9em;
+    }
+    .part4{
+        margin:1em 0;
+        border-radius:0;
+    }
+    #kalika{
+        font-size:1.4em;
+    }
+    .font__po p{
+        font-size:1.5em;
+    }
+    .grid{
+        display:flex;
+        flex-flow:column nowrap;
+        font-size:0.8em;
+    }
+    .grid div{
+        width:100%;
+    }
+    .activity__last{
+        font-size:0.8em;
+    }
+    .part5{
+        margin:1em 0;
+        border-radius:0;
+    }
+    .part5__h p{
+     font-size:1.8em;
+    }
+    .part5__h i{
+        font-size:1.4em;
+    }
+    .font__p p{
+        font-size:1em;
+    }
+    
+    .part6{
+        margin-bottom:6em;
+    }
+    .part6__grid{
+        grid-template-columns: auto auto ;
+        font-size:1em;
+    }
+    .part6__right{
+        font-size:1em;
+    }
+    }
